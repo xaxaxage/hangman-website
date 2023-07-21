@@ -1,0 +1,48 @@
+.word {
+    padding-top: 10px;
+    background-color: #edaba6;
+    position: relative;
+    top: -230px;
+}
+
+#word {
+    font-size: 200px;
+    letter-spacing: 100px;
+    position: relative;
+    left: 260px;
+    top: -20px;
+}
+
+.inp {
+    background-color: #92de8e;
+    width: 50%;
+    height: 450px;
+    position: relative;
+    top: -400px;
+    left: 22%;
+}
+
+#inp {
+    position: relative;
+    left: 300px;
+    top: 80px;
+    width: 70px;
+    height: 65px;
+    font-size: 55px;
+}
+
+.cap {
+    background-color: #8085d1;
+}
+
+#p {
+    font-size: 100px;
+}
+
+#m_score {
+    font-size: 70px;
+    position: relative;
+    left: 320px;
+    top: 50px;
+}
+
